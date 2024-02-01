@@ -27,7 +27,7 @@ DEBUG = True
 
 # settings.py
 
-ALLOWED_HOSTS = ['184.73.46.156']
+ALLOWED_HOSTS = ['*']
 
 
 
